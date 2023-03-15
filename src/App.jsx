@@ -43,7 +43,7 @@ function App() {
           <button type="submit" className="form_button">Search</button>
         </form>
 
-        {urlResult ? <a target='_blank' rel="noreferrer" href={urlResult} className="download_btn">Download MP3</a> : ''}
+        {urlResult ? <a target='_blank' rel="noreferrer" href={urlResult} className="download_btn">Download Now!!</a> : ''}
         
       </section>
     </div>
